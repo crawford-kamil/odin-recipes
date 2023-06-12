@@ -1,3 +1,26 @@
-* {
-    color: red;
+html {
+    box-sizing: border-box;
 }
+
+* {
+    box-sizing: inherit;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+div {
+    padding: 15px 25px;
+    border: 3px black;
+    background-color: yellow;
+    margin: auto;
+    display: inline-block;
+}
+
+li {
+    font-size: 25px;
+}
+
